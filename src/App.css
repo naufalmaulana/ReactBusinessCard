@@ -1,8 +1,39 @@
 .App {
-  text-align: center;
+  /* text-align: center;   */
+  background-color: #23252C;
+  /* height: 100vh; */
 }
 
-.App-logo {
+.text-dark-peach{
+  color: #F3BF99;
+}
+
+.bg-blue{
+  background-color: #5093E2;
+}
+
+.bg-navy{
+  background-color: #1A1B21;
+}
+.bg-black{
+  background-color: #161619;
+}
+
+.btnwdth{
+  width: 250px;
+}
+
+.txt-icon{
+  color: #918E9B;
+}
+
+.bg-gray{
+  background-color: #918E9B;
+}
+
+
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +66,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
